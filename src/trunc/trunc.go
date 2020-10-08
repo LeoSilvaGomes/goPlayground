@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func Trunc() {
+func Execute() {
 	var x float64
 
 	fmt.Println("Write a float number:")
