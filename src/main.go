@@ -12,4 +12,7 @@ func main() {
 
 	// Function create a map and convert to a json
 	//makejson.Execute()
+
+	// Function that create a slice of struct and print it
+	//read.Execute()
 }
