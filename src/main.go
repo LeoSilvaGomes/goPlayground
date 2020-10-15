@@ -9,4 +9,7 @@ func main() {
 
 	// A function that add a integer gived for user in sort slice
 	//slice.Execute()
+
+	// Function create a map and convert to a json
+	//makejson.Execute()
 }
